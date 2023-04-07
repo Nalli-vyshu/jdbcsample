@@ -14,7 +14,7 @@ public class App
     	//load and register driver
         Class.forName("com.mysql.cj.jdbc.Driver");
         //create the object to get connection
-        //url to db,username,password
+        //Burl to db,username,password
         String url="jdbc:mysql://localhost:3306/oneplus";
         String username="root";
         String password="vyshu2525";
